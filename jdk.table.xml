@@ -1,0 +1,63 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Kahlua" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="LuaJ" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Anaconda\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Anaconda\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Anaconda/DLLs" />
+            <root type="simple" url="file://C:/Anaconda/Lib" />
+            <root type="simple" url="file://C:/Anaconda" />
+            <root type="simple" url="file://C:/Anaconda/Lib/site-packages" />
+            <root type="simple" url="file://C:/Anaconda/Lib/site-packages/Sphinx-1.3.5-py3.5.egg" />
+            <root type="simple" url="file://C:/Anaconda/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Anaconda/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Anaconda/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://C:/Anaconda/Lib/site-packages/setuptools-20.3-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-946255732" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
