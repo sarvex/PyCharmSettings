@@ -7,12 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Google App Engine (Python)</id>
+            <id>Python</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>TypeScript</id>
+            <id>PyPep8Inspection</id>
           </State>
         </selected-state>
       </profile-state>
